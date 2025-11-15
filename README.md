@@ -1,0 +1,2 @@
+# STM32CubeIDE_VSCode_EmptyProject
+STM32CubeIDE_VSCode_EmptyProject
